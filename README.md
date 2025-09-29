@@ -1,4 +1,5 @@
 📊 Sales Data Analysis
+
 Description
 
 This project performs a basic analysis of sales data stored in a CSV file using Python and Pandas. It focuses on understanding sales performance across different products, regions, and time periods. The analysis uses grouping and aggregation techniques, combined with visualizations, to generate meaningful insights.
